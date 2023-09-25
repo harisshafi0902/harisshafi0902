@@ -52,3 +52,6 @@ Hello, my name is Haris Shafi.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harisshafi0902&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

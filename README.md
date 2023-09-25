@@ -28,9 +28,10 @@ Hello, my name is Haris Shafi.
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/haris-shafi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Nasir-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:theharisshafi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.zeeshannasir5@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/haris-shafi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Haris%20Shafi-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:theharisshafi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-theharisshafi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
 

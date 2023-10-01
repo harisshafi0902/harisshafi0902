@@ -10,9 +10,7 @@ Hello, my name is Haris Shafi.
     <img width="90%" src="./assets/quote1-d.jpeg">
 </div>
 
-📖 I first learned to code at the beginning of __2019__  I've finally known how to learn coding by trial and error 🤓
-
-📖 I officially became a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in February __2021__ 🙏🏻
+📖 I first learned to code at the beginning of __2019__  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 📖 Now, I _enjoy_ learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
 
